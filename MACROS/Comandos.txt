@@ -1,0 +1,3 @@
+Teste de preenchimento de formulário
+ctrl + seleciona todas as células e na última volte para primeira
+fn + f2 em seguida ctrl + enter para completar todos os campos selecionados.
